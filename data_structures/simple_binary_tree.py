@@ -11,7 +11,7 @@ class BinaryNode(object):
 
 class SimpleBinaryTree(object):
     """
-    Binary tree implementation using linked lists.
+    Binary tree implementation using nested lists.
     Simple, because it does not have the binary tree property
     """
 
@@ -54,4 +54,3 @@ class SimpleBinaryTree(object):
 
     def get_right(self):
         pass
-    
