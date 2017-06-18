@@ -43,3 +43,15 @@ class SimpleBinaryTree(object):
             self.root.insert(2, [new_subtree, [], []])
         return self.root
 
+    def get_root(self):
+        pass
+
+    def set_root(self):
+        pass
+
+    def get_left(self):
+        pass
+
+    def get_right(self):
+        pass
+    
